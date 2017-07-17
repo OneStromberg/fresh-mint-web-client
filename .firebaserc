@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "fresh-mint": "theink-30b2a",
+    "default": "fresh-mint-f5125",
+    "fm": "fresh-mint-f5125"
+  }
+}
